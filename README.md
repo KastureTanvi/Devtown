@@ -1,6 +1,6 @@
 # Devtown
 
-# Facebook Login and Signup page-
+# Facebook Log-In and signUp page-
 
 created Facebook-Login-&-signUp-page using pure HTML & CSS.
 
